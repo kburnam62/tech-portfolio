@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Kaitlin Burnam', // Title for your website.
-    tagline: 'Entrepreneur, Programmer, Creator',
+    tagline: 'Creative Person',
     profilePhoto: 'img/profile.png',
     url: 'https://kburnam62.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
